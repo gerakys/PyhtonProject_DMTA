@@ -1,50 +1,53 @@
 # Fake News Detection - DMTA 2023/2024
 
-Breve descrizione del progetto universitario.
+Fake News Detection project for Data Mining and Text Analytics unit
 
-## Descrizione
+## Description
 
-Una descrizione più dettagliata del progetto, spiegando lo scopo, gli obiettivi e le funzionalità principali.
+The project aims to create a model capable of distinguishing between true and false news, thereby contributing to mitigating the spread of misleading information.
 
-## Funzionalità Principali
+## Key Features
 
-- Elenco delle principali funzionalità del progetto.
+- Text analysis to identify common traits of fake news.
+- Utilization of machine learning algorithms for news classification.
 
-## Requisiti di Sistema
+## System Requirements
 
-Specificare i requisiti hardware e software necessari per eseguire il progetto.
+- Python 3. ?????
+- Machine learning libraries such as x, y and z.
+- Other specific requirements for your development environment.
 
-## Installazione
+## Installation
 
-Guida passo-passo su come installare e configurare il progetto sul proprio sistema.
 
-## Utilizzo
 
-Spiegare come utilizzare il progetto, inclusi esempi di comandi o interazioni.
+## Usage
 
-## Contributi
 
-Informazioni su come gli altri possono contribuire al progetto. Può includere linee guida per il fork del repository, la creazione di branch, la sottomissione di richieste di pull, ecc.
 
-## Licenza
+## Contributions
 
-Indicare la licenza del progetto per informare chiunque voglia utilizzare o contribuire al progetto.
 
-## Contatti
 
-- Nome dell'autore o del team
-- Indirizzo email
-- Altri link di contatto (ad esempio, link al profilo GitHub)
+## License
 
-## Stato del Progetto
+This project is distributed under the MIT License. Read the LICENSE.md file for further details.
 
-Informazioni sullo stato attuale del progetto, eventuali problemi noti e future sviluppi.
+## Contact
 
-## Ringraziamenti
+- Gabriel Geraci, Lorenzo Fratini
+- {gabriel.geraci1, lorenzo.fratini1}@studenti.iulm.it
+- Linkedin profiles link
 
-Ringraziamenti speciali o riconoscimenti a chi ha contribuito o fornito supporto al progetto.
+## Project Status
 
-## Risoluzione dei Problemi
+Currently, the project is in active development. Check the repository issues for the latest challenges and planned improvements.
 
-Informazioni su come segnalare bug o problemi e come vengono gestiti.
+## Acknowledgments
+
+Thanks to everyone who has contributed or provided support to this project.
+
+## Troubleshooting
+
+Report bugs or issues by opening a new GitHub issue.
 
