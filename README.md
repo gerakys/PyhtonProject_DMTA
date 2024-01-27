@@ -58,10 +58,16 @@ Currently, the project is in active development. Check the repository issues for
 
 We would like to acknowledge and express our gratitude to the following articles and websites that have greatly contributed to the development and inspiration of this fake news detection project:
 
-- [Automatic Fake News Detection for Romanian Online News.](https://www.researchgate.net/publication/359252597_Automatic_Fake_News_Detection_for_Romanian_Online_News): Brief description of how this article influenced the project.
-- [Article Title 2](https://arxiv.org/ftp/arxiv/papers/2201/2201.07489.pdf): Brief description of how this article inspired certain aspects of the project.
-- [Website Name](URL3): Description of the valuable resources or insights obtained from this website.
-- ...
+- [Automatic Fake News Detection for Romanian Online News.](https://www.researchgate.net/publication/359252597_Automatic_Fake_News_Detection_for_Romanian_Online_News): This article provided valuable insights into various methodologies for detecting fake news, shaping our overall approach and strategies..
+- [Article Title 2](https://arxiv.org/ftp/arxiv/papers/2201/2201.07489.pdf): The concepts and techniques discussed in this article played a pivotal role in enhancing our understanding of machine learning applications in text classification, a fundamental aspect of our project.
+- [Kaggle](kaggle.com): This is where we found our dataset
+
+We would like to express our appreciation to the creators and contributors of the following GitHub repository:
+
+- [Text Classification](https://github.com/cezannec/CNN_Text_Classification): This source inspired us on how build a clean github repository
+- [Sentiment Analysis with an RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb): This resource provided valuable code snippets, insights, or inspiration that significantly contributed to the development of our project.
+
+We would like to extend our sincere gratitude to Professor Bruno for his guidance, support, and invaluable insights throughout the development of this project. Their expertise and encouragement played a pivotal role in shaping our understanding and approach.
 
 These sources played a significant role in shaping our understanding and approach to fake news detection.
 
