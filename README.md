@@ -2,6 +2,11 @@
 
 Fake News Detection project for Data Mining and Text Analytics unit
 
+## Introduction
+Welcome to the Fake News Detection project! In today's digital age, the spread of misinformation is a significant concern. This project leverages the power of Neural Networks to tackle the issue of fake news by analyzing news headlines and classifying them as either real or fake.
+
+**Note:** Initially, we experimented with the Multinomial Naive Bayes (MultinomialNB) model, and the classifications appeared to be correct. However, seeking to explore the potential of Neural Networks, we decided to construct a custom model with the assistance of ChatGPT. Our aim is to compare the results of the Neural Network with the initial MultinomialNB model.
+
 ## Description
 
 The project aims to create a model capable of distinguishing between true and false news, thereby contributing to mitigating the spread of misleading information.
@@ -13,8 +18,8 @@ The project aims to create a model capable of distinguishing between true and fa
 
 ## System Requirements
 
-- Python 3. ?????
-- Machine learning libraries such as x, y and z.
+- Python 3
+- Machine learning libraries such as pandas, numpy, sklearn and tensorflow.
 - Other specific requirements for your development environment.
 
 ## Installation
