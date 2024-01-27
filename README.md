@@ -32,6 +32,15 @@ The project aims to create a model capable of distinguishing between true and fa
 
 ## Usage
 
+To use the fake news detection project, follow the steps below:
+
+### 1. Run the Code
+
+```bash
+python fake_news_detection.py
+
+
+
 
 
 ## Contributions
