@@ -34,16 +34,7 @@ The project aims to create a model capable of distinguishing between true and fa
 
 To use the fake news detection project, follow the steps below:
 
-### 1. Run the Code
 
-```bash
-python fake_news_detection.py
-
-
-
-
-
-## Contributions
 
 
 
@@ -63,7 +54,16 @@ Currently, the project is in active development. Check the repository issues for
 
 ## Acknowledgments
 
-Thanks to everyone who has contributed or provided support to this project.
+# Acknowledgements
+
+We would like to acknowledge and express our gratitude to the following articles and websites that have greatly contributed to the development and inspiration of this fake news detection project:
+
+- [Automatic Fake News Detection for Romanian Online News.](https://www.researchgate.net/publication/359252597_Automatic_Fake_News_Detection_for_Romanian_Online_News): Brief description of how this article influenced the project.
+- [Article Title 2](https://arxiv.org/ftp/arxiv/papers/2201/2201.07489.pdf): Brief description of how this article inspired certain aspects of the project.
+- [Website Name](URL3): Description of the valuable resources or insights obtained from this website.
+- ...
+
+These sources played a significant role in shaping our understanding and approach to fake news detection.
 
 ## Troubleshooting
 
