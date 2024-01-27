@@ -1,6 +1,10 @@
 # Fake News Detection - DMTA 2023/2024
 
 Fake News Detection project for Data Mining and Text Analytics unit
+![Project Image](notebook_ims/Architecture-of-the-proposed-fake-news-detection-system.png)
+
+*Image from [this paper](https://arxiv.org/abs/1408.5882).*
+
 
 ## Introduction
 Welcome to the Fake News Detection project! In today's digital age, the spread of misinformation is a significant concern. This project leverages the power of Neural Networks to tackle the issue of fake news by analyzing news headlines and classifying them as either real or fake.
