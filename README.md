@@ -1,6 +1,9 @@
 # Fake News Detection - DMTA 2023/2024
 
 Fake News Detection project for Data Mining and Text Analytics unit
+
+
+
 ![Project Image](notebook_ims/Architecture-of-the-proposed-fake-news-detection-system.png)
 
 *Image from [this paper](https://arxiv.org/abs/1408.5882).*
