@@ -46,15 +46,13 @@ This project is distributed under the MIT License. Read the LICENSE.md file for 
 
 - Gabriel Geraci, Lorenzo Fratini
 - {gabriel.geraci1, lorenzo.fratini1}@studenti.iulm.it
-- Linkedin profiles link
+- Linkedin Profiles: [Gabriel](https://www.linkedin.com/in/gabrielgeraci/), [Lorenzo](https://www.linkedin.com/in/lorenzo-fratini-0838a5265/)
 
 ## Project Status
 
 Currently, the project is in active development. Check the repository issues for the latest challenges and planned improvements.
 
 ## Acknowledgments
-
-# Acknowledgements
 
 We would like to acknowledge and express our gratitude to the following articles and websites that have greatly contributed to the development and inspiration of this fake news detection project:
 
