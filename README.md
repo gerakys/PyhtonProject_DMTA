@@ -33,14 +33,29 @@ The project aims to create a model capable of distinguishing between true and fa
 
 ## Installation
 
+Make sure you have Python installed on your machine. 
+You can install the required packages using the following command on your terminal or bash shell:
+```
+pip install requirements.txt
+```
+
+##### Clone the repository
+```
+git clone https://github.com/gerakys/PyhtonProject_DMTA.git
+```
+
+##### Navigate to the project directory 
+```
+cd PythonProject_DMTA
+```
 
 
 ## Usage
 
 To use the fake news detection project, follow the steps below:
-
-
-
+```
+python Neural_Net_FND.ipynb
+```
 
 
 ## License
@@ -74,7 +89,5 @@ We would like to extend our sincere gratitude to Professor Bruno for his guidanc
 
 These sources played a significant role in shaping our understanding and approach to fake news detection.
 
-## Troubleshooting
 
-Report bugs or issues by opening a new GitHub issue.
 
