@@ -85,7 +85,7 @@ We would like to express our appreciation to the creators and contributors of th
 - [Text Classification](https://github.com/cezannec/CNN_Text_Classification): This source inspired us on how build a clean github repository
 - [Sentiment Analysis with an RNN](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/sentiment-rnn/Sentiment_RNN_Solution.ipynb): This resource provided valuable code snippets, insights, or inspiration that significantly contributed to the development of our project.
 
-We would like to extend our sincere gratitude to Professor Bruno for his guidance, support, and invaluable insights throughout the development of this project. Their expertise and encouragement played a pivotal role in shaping our understanding and approach.
+We would like to extend our sincere gratitude to Professor Bruno for his guidance, support, and invaluable insights throughout the development of this project. His expertise and encouragement played a crucial role in shaping our understanding and approach.
 
 These sources played a significant role in shaping our understanding and approach to fake news detection.
 
